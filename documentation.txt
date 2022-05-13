@@ -1,0 +1,3 @@
+A program diákok jegyeinek és hiányzásainak követésére szolgál, viszont sajnos nem tudtam a határidőre befejezni, ezért
+jelen állapotában csak a funkciók egy része működik, ez gyakorlatban annyit jelent, hogy az adatok tárolása és kezelése
+működőképes, de menübe összerakni ezeket már nem tudtam. A fileba mentés és betöltés szintén nem készült el.
